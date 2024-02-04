@@ -22,9 +22,9 @@
 
       "steam_connect_button": false,
       "minimal": false,
-      "server_playerlist": "0",
+      "server_playerlist": "1",
       "server_enable_graph": true,
-      "server_enable_numbers": false
+      "server_enable_numbers": true
     }
   ]
 }
